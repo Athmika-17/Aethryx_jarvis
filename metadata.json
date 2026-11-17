@@ -1,0 +1,6 @@
+{
+  "name": "AETHRYX JARVIS",
+  "description": "Your Voice. Earth's Intelligence. An Earth system trend detection and environmental intelligence platform built for the NASA Space Apps Challenge 2026.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
